@@ -12,7 +12,7 @@ by [David Gallivan](http://twitter.com/CodingwithDavid)
 
    ```Command Line
    git clone https://github.com/CodingWithDavid/ExpandedCards
-   cd SimpleProjects
+   cd ExpandedCards
    ```
 
 1.	Open in Visual Studio or Visual Code
